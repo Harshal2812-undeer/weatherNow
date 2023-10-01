@@ -1,4 +1,3 @@
-# weatherNow
 # Weather Application
 
 This is a simple Flutter application that fetches and displays the current weather of a city.
